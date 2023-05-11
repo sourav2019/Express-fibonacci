@@ -1,0 +1,5 @@
+GET http://localhost:8000/cvr
+
+###
+
+GET http://localhost:8000/api/v1/calculate?name=fibonacci&value=70
